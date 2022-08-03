@@ -13,6 +13,32 @@ IT- specialists to progress and conquer new heights together! :)
 </p>
 <br>
 
+<h3>📎 Work Expirience:</h3>
+<p><b>Freelance</b></p>
+<ul>
+<li>Position: Manager of performance marketing</li>
+<li>Duration: 2018 - 2021</li>
+</ul>
+
+<p><b>4Creative Agency</b></p>
+<ul>
+<li>Position: Manager of performance marketing</li>
+<li>Duration: 2021 (7 month)</li>
+</ul>
+
+<p><b>4Creative Agency</b></p>
+<ul>
+<li>Position: Front-End Developer (Trainee)</li>
+<li>Duration: end 2021 - start 2022</li>
+</ul>
+
+<p><b>Freelance</b></p>
+<ul>
+<li>Position: Front-End Developer</li>
+<li>Duration: 24.02.2022 - until now</li>
+</ul>
+
+<br>
 <h3>📎 Education:</h3>
 <p><b>College of Economics of Law and Information Technology</b></p>
 <ul>
@@ -28,10 +54,10 @@ IT- specialists to progress and conquer new heights together! :)
 
 <p><b>...and now I am constantly learning from these resources:</b></p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="https://learn.javascript.ru/" target="_blanc">https://learn.javascript.ru/</a></li>
+<li><a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blanc">https://developer.mozilla.org/ru/docs/Web/JavaScript</a></li>
+<li><a href="https://www.udemy.com/" target="_blanc">https://www.udemy.com/</a></li>
+<li><a href="https://www.codewars.com/" target="_blanc">https://www.codewars.com/</a></li>
 </ul>
 
 
