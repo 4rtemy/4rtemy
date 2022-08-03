@@ -37,6 +37,28 @@ IT- specialists to progress and conquer new heights together! :)
 <li>Position: Front-End Developer</li>
 <li>Duration: 24.02.2022 - until now</li>
 </ul>
+<br>
+
+<h3>📎 Practical Skills:</h3>
+<p>🔹 HTML</p>
+<p>🔹 CSS</p>
+<p>🔹 SASS/SCSS</p>
+<p>🔹 Bootstrap</p>
+<p>🔹 JavaScript</p>
+<p>🔹 Swiper.js</p>
+<p>🔹 PHP</p>
+<p>🔹 Wordpress</p>
+<p>🔹 OpenCart</p>
+<p>🔹 ACF</p>
+<p>🔹 Figma</p>
+<p>🔹 Photoshop</p>
+<p>🔹 Illustrator</p>
+<p>🔹 Axure RP</p>
+<p>🔹 GIT</p>
+<p>🔹 Google Tag Manager</p>
+<p>🔹 Google Analytics</p>
+<p>🔹 Facebook Analytics</p>
+<p>🔹 Trello/Jira</p>
 
 <br>
 <h3>📎 Education:</h3>
