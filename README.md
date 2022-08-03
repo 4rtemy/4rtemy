@@ -81,7 +81,7 @@ IT- specialists to progress and conquer new heights together! :)
 <li><a href="https://www.udemy.com/" target="_blanc">https://www.udemy.com/</a></li>
 <li><a href="https://www.codewars.com/" target="_blanc">https://www.codewars.com/</a></li>
 </ul>
-
+<br>
 
 <h3>📎 Codewars:</h3>
 
