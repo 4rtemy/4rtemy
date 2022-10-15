@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-End+Trainee+from+Ukraine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-End+Developer+from+Ukraine)](https://git.io/typing-svg)
 
 <h3>📎 About me:</h3>
 <p>Graduate of the Faculty of Computer Science. Previously worked in digital-marketing and had a bit of a fascination with web design. At the moment, I have been studying the front-end direction for about 8 months and managed to get some commercial experience freelancing and in a
